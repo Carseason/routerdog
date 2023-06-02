@@ -1,0 +1,15 @@
+{
+    "posts": [],
+    "shops": [],
+    "advertises": [],
+    "android": {
+        "version": "",
+        "content": "",
+        "target": ""
+    },
+    "ios": {
+        "version": "",
+        "content": "",
+        "target": ""
+    }
+}
