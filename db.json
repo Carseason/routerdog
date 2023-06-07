@@ -1,6 +1,14 @@
 {
     "posts": [],
-    "shops": [],
+    "shops": [
+        {
+            "title": "Easepi",
+            "desc": "EasePi ARS2，是易有云团队推出的基于RTD1296处理器且带存储的软路由开发板",
+            "pic": "https://gd1.alicdn.com/imgextra/i1/2212498840534/O1CN01COdbM71FocIkFMjKB_!!2212498840534.jpg",
+            "origin": "易有云淘宝店",
+            "target": "taobao://item.taobao.com/item.htm?id=655381846734"
+        }
+    ],
     "advertises": [],
     "android": {
         "version": "",
