@@ -3,10 +3,39 @@
     "shops": [
         {
             "title": "Easepi",
-            "desc": "EasePi ARS2，是易有云团队推出的基于RTD1296处理器且带存储的软路由开发板",
-            "pic": "https://gd1.alicdn.com/imgextra/i1/2212498840534/O1CN01COdbM71FocIkFMjKB_!!2212498840534.jpg",
+            "pic": "taobao://gd1.alicdn.com/imgextra/i1/2212498840534/O1CN01COdbM71FocIkFMjKB_!!2212498840534.jpg",
             "origin": "易有云淘宝店",
             "target": "taobao://item.taobao.com/item.htm?id=655381846734"
+        },
+        {
+            "title": "华硕RT-AX86U Pro双频5700M全千兆电竞路由器2.5G RT-AX86U升级版",
+            "pic": "taobao://img.alicdn.com/bao/uploaded/i1/915217422/O1CN01SzLtuW24hKPEBNur7_!!915217422.png_240x240.jpg",
+            "origin": "koolshare直营店 进入店铺 ",
+            "target": "taobao://item.taobao.com/item.htm?spm=a1z10.1-c-s.w4004-24807046209.2.238a689cHPo2kh&id=708827060013"
+        },
+        {
+            "title": "华硕 RT-AX82U V2 无线路由器 AX5400 WIFI6 电竞魔鬼鱼 5G增强版",
+            "pic": "taobao://img.alicdn.com/bao/uploaded/i3/915217422/O1CN01d5iPtT24hKMicVyn4_!!915217422.png_240x240.jpg",
+            "origin": "koolshare直营店 进入店铺 ",
+            "target": "taobao://item.taobao.com/item.htm?spm=a1z10.1-c-s.w4004-24807046209.4.238a689cHPo2kh&id=624613632597"
+        },
+        {
+            "title": "华硕灵耀XD4小魔方wifi6无线路由器Aimesh分布式组网AX1800大户型",
+            "pic": "taobao://img.alicdn.com/bao/uploaded/i2/915217422/O1CN01OH2PtA24hKN6UbzJr_!!915217422.jpg_240x240.jpg",
+            "origin": "koolshare直营店 进入店铺 ",
+            "target": "taobao://item.taobao.com/item.htm?spm=a1z10.1-c-s.w4004-24807046209.8.238a689cHPo2kh&id=634714970558"
+        },
+        {
+            "title": "华硕 XD6 灵耀魔方分布式路由器 WiFi6 白色两只装 AX5400 AIMESH",
+            "pic": "taobao://img.alicdn.com/bao/uploaded/i3/915217422/O1CN01KzXmjb24hKHaIMdKR_!!915217422.png_240x240.jpg",
+            "origin": "koolshare直营店 进入店铺 ",
+            "target": "taobao://item.taobao.com/item.htm?spm=a1z10.1-c-s.w4004-24807046209.22.238a689cHPo2kh&id=646343465472"
+        },
+        {
+            "title": "华硕灵耀AX7800分布式路由器XT9大户型mesh路由2.5G口",
+            "pic": "taobao://img.alicdn.com/bao/uploaded/i4/915217422/O1CN01IVsrSU24hKNesDt7T_!!915217422.png_240x240.jpg",
+            "origin": "koolshare直营店 进入店铺 ",
+            "target": "taobao://item.taobao.com/item.htm?spm=a1z10.1-c-s.w4004-24807046209.14.238a689cHPo2kh&id=684557258149"
         }
     ],
     "advertises": [],
