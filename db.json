@@ -50,7 +50,16 @@
             "target": "taobao://item.taobao.com/item.htm?spm=a1z10.3-c-s.w4002-23833794058.19.183c36a947dKZn&id=650969288109"
         }
     ],
-    "advertises": [],
+    "advertises": [
+        {
+            "pic": "https://assets.koolcenter.com/ddnsto/adsense/mobile_banner_Aria2.png",
+            "target": "https://www.linkease.com"
+        },
+        {
+            "pic": "https://assets.koolcenter.com/ddnsto/adsense/mobile_banner_Aria2.png",
+            "target": "https://www.linkease.com"
+        }
+    ],
     "android": {
         "version": "",
         "content": "",
