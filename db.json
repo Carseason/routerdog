@@ -65,5 +65,11 @@
         "version": "",
         "content": "",
         "target": ""
+    },
+    "announcement": {
+        "id": "1",
+        "title": "公告",
+        "content": "欢迎使用路由狗",
+        "date": ""
     }
 }
