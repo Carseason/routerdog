@@ -1,5 +1,5 @@
 {
-    "version": "",
-    "content": "",
-    "target": ""
+    "version": "1.0.118",
+    "content": "1.修复已知问题\n2.优化性能",
+    "target": "https://github.com/Carseason/routerdog"
 }
