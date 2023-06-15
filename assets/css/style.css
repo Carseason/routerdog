@@ -1,0 +1,93 @@
+* {
+    -webkit-box-sizing: border-box;
+    -webkit-tap-highlight-color: transparent;
+    box-sizing: border-box;
+    word-wrap: break-word;
+    outline: none;
+    -webkit-font-smoothing: subpixel-antialiased;
+}
+
+html,
+body {
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background: #0f53bd;
+    background-image: url(/assets/images/bg.png);
+}
+
+header {}
+
+footer {}
+
+main {
+    width: 100vw;
+    overflow: auto;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+
+}
+
+main .container {
+    width: 100%;
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    padding: 80px 0;
+}
+
+main .title {
+    display: block;
+    width: 100%;
+    text-align: center;
+    font-size: 28px;
+    font-family: Source Han Sans CN;
+    font-weight: 400;
+    color: #FFFFFF;
+}
+
+
+main .cover {
+
+    position: relative;
+    margin: 30px 0;
+}
+
+main .cover img {
+    width: 100%;
+    border-radius: 1rem;
+    width: 200px;
+    margin: 0 10px;
+}
+
+main .downloads {
+    width: 100%;
+    text-align: center;
+}
+
+main .downloads a {
+    cursor: pointer;
+    text-decoration: none;
+    outline: none;
+    display: block;
+    width: 300px;
+    height: 65px;
+    margin: 0 auto;
+    border-radius: 65px;
+    background-color: #fff;
+    color: #D10000;
+    font-size: 22px;
+    line-height: 65px;
+    text-align: center;
+    cursor: pointer;
+    box-sizing: content-box;
+}
