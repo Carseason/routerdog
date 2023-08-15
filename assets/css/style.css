@@ -36,13 +36,15 @@ main {
 }
 
 main .container {
-    width: 100%;
+    width: 100vw;
+    height: 100vh;
     text-align: center;
     display: flex;
     flex-wrap: wrap;
     align-items: center;
+    align-content: center;
     justify-content: center;
-    padding: 80px 0;
+    overflow: auto;
 }
 
 main .title {
@@ -72,6 +74,11 @@ main .cover img {
 main .downloads {
     width: 100%;
     text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+
 }
 
 main .downloads a {
@@ -81,12 +88,33 @@ main .downloads a {
     display: block;
     width: 300px;
     height: 65px;
-    margin: 0 auto;
     border-radius: 65px;
     background-color: #fff;
     color: #D10000;
     font-size: 22px;
     line-height: 65px;
+    text-align: center;
+    cursor: pointer;
+    box-sizing: content-box;
+}
+
+
+main .github {
+    width: 100%;
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    margin-top: 1rem;
+}
+
+main .github a {
+    text-decoration: none;
+    outline: none;
+    display: block;
+    color: #fff;
+    font-size: 18px;
     text-align: center;
     cursor: pointer;
     box-sizing: content-box;
