@@ -1,0 +1,46 @@
+[
+    {
+        "name": "gallery-dl媒体下载",
+        "website": "https://github.com/mikf/gallery-dl",
+        "tags": [
+            "下载",
+            "多媒体",
+            "视频"
+        ],
+        "description": "从多个站点下载图像库和集合,例如 twitter, instagram, patreon",
+        "cmds": [
+            "-v",
+            "${1}:/gallery-dl/",
+            "-v",
+            "${2}:/etc/gallery-dl.conf",
+            "-i",
+            "gallery-dl:latest",
+            "${3}"
+        ],
+        "hint": {
+            "${1}": "下载至",
+            "${2}": "配置文件",
+            "${3}": "目标链接"
+        }
+    },
+    {
+        "name": "you-get视频下载",
+        "tags": [
+            "下载",
+            "多媒体",
+            "视频"
+        ],
+        "description": "用于从 Web 下载媒体内容（视频、音频、图像）",
+        "website": "https://github.com/soimort/you-get",
+        "cmds": [
+            "-v",
+            "${1}:/download",
+            "kmdgeek/you-get",
+            "${2}"
+        ],
+        "hint": {
+            "${1}": "下载至",
+            "${2}": "下载链接"
+        }
+    }
+]
